@@ -1,0 +1,27 @@
+|-- .env
+|-- .pytest_cache
+    |-- .gitignore
+    |-- CACHEDIR.TAG
+    |-- README.md
+    |-- v
+|-- Agents
+    |-- base_agent.py
+    |-- news_agent.py
+    |-- planner.py
+    |-- spacex_agent.py
+    |-- summary_agent.py
+    |-- weather_agent.py
+    |-- __init__.py
+    |-- __pycache__
+        |-- base_agent.cpython-311.pyc
+        |-- news_agent.cpython-311.pyc
+        |-- planner.cpython-311.pyc
+        |-- spacex_agent.cpython-311.pyc
+        |-- summary_agent.cpython-311.pyc
+        |-- weather_agent.cpython-311.pyc
+        |-- __init__.cpython-311.pyc
+|-- main.py
+|-- requirements.txt
+|-- __pycache__
+    |-- config.cpython-311.pyc
+    |-- metrics.cpython-311.pyc
